@@ -14,7 +14,7 @@ A Power BI project that presents a comprehensive analysis of YouTube channel per
 
 You can download the original Power BI file using the link below:
 
-🔗 [Download `.pbix` File](https://github.com/huma1020/youtube-channel-analytics-dashboard/blob/main/resume%20projet.pbix?raw=true)
+🔗 [Download `.pbix` File]https://github.com/huma1020/youtube-channel-analytics-dashboard/raw/main/resume%20projet.pbix
 
 ---
 
